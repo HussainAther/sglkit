@@ -1,0 +1,16 @@
+{
+  "name": "favorable-filter-proxy",
+  "wavelength_range_nm": [300.0, 1000.0],
+  "filter": {
+    "cutoff_nm": 442.0,
+    "absorption_depth": 0.2
+  },
+  "corona": {
+    "spectral_index": -3.0
+  },
+  "sgl": {
+    "wavelength_m": 1e-6,
+    "z_au": 650.0,
+    "pixel_scale_m": 0.05
+  }
+}
